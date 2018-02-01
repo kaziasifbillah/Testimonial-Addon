@@ -1,0 +1,24 @@
+/* Testimonial Addon CSS */
+
+.single-testimonial-box {
+	font-style: italic;
+	margin-bottom: 40px;
+}
+
+.single-testimonial-box h3 {
+	font-size: 20px;
+	font-style: normal;
+}
+
+.single-testimonial-box h3 span {
+	color: #666;
+	display: block;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 26px;
+	margin-top: 5px;
+}
+
+.single-testimonial-box img {
+	margin-bottom: 20px;
+}
